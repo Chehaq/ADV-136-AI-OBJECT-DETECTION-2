@@ -1,0 +1,49 @@
+
+h1{
+font-size: 28px;
+color: whitesmoke;
+font-family: 'Lobster Two', cursive;
+font-weight: bolder;
+}
+
+#note,#hint{
+    font-size: 19px;
+    color: whitesmoke;
+    font-family: 'Patrick Hand SC', cursive;
+    font-weight: bold;
+}
+
+#start,#object_found,#status{
+    font-size: 15px;
+}
+
+body{
+    background-size: cover;
+    font-family: 'Coming Soon', cursive;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background: grey;
+    line-height: 2;
+    text-align: center;
+    font-family: 'Patrick Hand SC', cursive;
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px whitesmoke;
+    margin-bottom: 120px;
+}
+
+#objectInput{
+    width: 20%;
+    border-radius: 50px;
+    background-color: lightskyblue;
+}
